@@ -26,7 +26,11 @@ Through this project, I gained hands-on experience with:
 
 ## 📸 Screenshots
 
-[screenshot]
+![Screenshot](public/screenshot_1.png)
+
+### 🌍 Live Demo
+
+- 🔗 View Live Project: [Demo](https://eat-n-split-bil.netlify.app/)
 
 ## 📦 How to Run
 
